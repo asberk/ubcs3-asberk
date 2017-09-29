@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains files I have written as part of the UBCS3 series.
+This repository contains files I have written as part of the [UBCS3 series](https://github.com/ubcs3) hosted by Patrick Walls.
 
 ## Descriptions
 
